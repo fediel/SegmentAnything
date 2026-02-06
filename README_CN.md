@@ -34,6 +34,9 @@ python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
 ```
+### 3. 获取模型文件
+使用本项目需要先下载模型文本，并将它们移动到目录 **resources** 下。
+[下载](https://huggingface.co/dev2hf/robohub_example13)  
 
 ### 3. 获取 QNN 资源
 使用本项目需先获取高通（Qualcomm）QNN SDK v2.36.0.250627。
