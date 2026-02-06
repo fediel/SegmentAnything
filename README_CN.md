@@ -1,6 +1,6 @@
-# robohub_example13
+# SegmentAnything
 
-SegmentAnything
+robohub 示例 13.
 
 ## 功能特性
 - **用户友好的 Python API**：高级 Python 接口，抽象了复杂的 QNN C++ 示例，允许在骁龙（Snapdragon）平台上快速原型开发。
